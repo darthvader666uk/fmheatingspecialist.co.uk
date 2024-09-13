@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FM Heating Specialist</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>FM Heating Specialist - Gas Boiler Servicing, Installations and Repairs around the Caerphilly Area</description>
+	<lastBuildDate>Mon, 21 Nov 2022 09:00:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/11/cropped-1621284173.290642-BA93B04F-3061-4055-A01C-F61F2A726437-32x32.jpg</url>
+	<title>FM Heating Specialist</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
