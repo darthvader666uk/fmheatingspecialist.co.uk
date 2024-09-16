@@ -1,0 +1,21 @@
+title: FM Heating Specialist
+description: FM Heating Specialist - Gas Boiler Servicing, Installations and Repairs around the Caerphilly Area
+
+url: https://fmheatingspecialist.co.uk
+baseurl: # Ex: /project-page
+
+navigation:
+    - title: Home
+      url: /index.html
+    - title: Terms and conditions
+      url: /terms-and-conditions
+social:
+    github: brianmaierjr
+    twitter: brianmaierjr
+    facebook: brianmaierjr
+    email: brimaidesigns@gmail.com
+    linkedin: brianmaierjr
+    youtube: RickAstleyYT
+    tumblr: i-am-a-fish
+
+google_analytics: "G-N4SS677RZE"
