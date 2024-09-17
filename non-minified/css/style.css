@@ -2251,10 +2251,6 @@ section > .customize-partial-edit-shortcut button {
 
 /* Section: Hero
 ------------------------------*/
-#hero-section {
-  background: url(./images/grey-radiator-fmheatingspecialist.co.uk.webp);
-}
-
 .hero-slideshow-wrapper {
   width: 100%;
   position: relative;
