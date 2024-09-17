@@ -7,5 +7,3 @@ node_modules
 .jekyll-cache/*
 _vendor
 *.Identifier
-css/app.min.css
-js/app.min.js
