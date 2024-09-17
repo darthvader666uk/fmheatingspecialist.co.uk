@@ -62,7 +62,7 @@ Landlords/Home owner inspections and safety certificates also know as CP12s.
 
 Emergency repair work to central heating boilers, systems and pipework.
 
-##### Section subtitle
+##### Would like to know more
 
 Get in touch
 ------------
