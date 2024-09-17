@@ -108,7 +108,7 @@ if (
                 (this.options = a.extend({}, a.fn.backstretch.defaults, e || {})),
                     (this.images = a.isArray(b) ? b : [b]),
                     a.each(this.images, function () {
-                        a("<img />")[0].src = this;
+                        a("<img alt=\"FM Heating Specialist – Gas Boiler Servicing, Installations and Repairs around the Caerphilly Area\"/>")[0].src = this;
                     }),
                     (this.isBody = c === document.body),
                     (this.$container = a(c)),
@@ -155,7 +155,7 @@ if (
                         b.$container.trigger(a.Event("backstretch.before", d), [b, c]),
                         (this.index = c),
                         clearInterval(b.interval),
-                        (b.$img = a("<img />")
+                        (b.$img = a("<img alt=\"FM Heating Specialist – Gas Boiler Servicing, Installations and Repairs around the Caerphilly Area\"/>")
                             .css(s)
                             .bind("load", function (f) {
                                 var h = this.width || a(f.target).width();
