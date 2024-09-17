@@ -2251,6 +2251,10 @@ section > .customize-partial-edit-shortcut button {
 
 /* Section: Hero
 ------------------------------*/
+#hero-section {
+  background: url(./images/grey-radiator-fmheatingspecialist.co.uk.webp);
+}
+
 .hero-slideshow-wrapper {
   width: 100%;
   position: relative;
@@ -2327,9 +2331,6 @@ section > .customize-partial-edit-shortcut button {
   transform: translate(-50%, -50%);
 }
 
-.animation-disable .hero-slideshow-wrapper {
-  /* Loading icon */
-}
 .animation-disable .hero-slideshow-wrapper .hero__content .hero-large-text, .animation-disable .hero-slideshow-wrapper .hero__content .hero-small-text, .animation-disable .hero-slideshow-wrapper .hero__content .btn, .animation-disable .hero-slideshow-wrapper .hero__content .hcl2-content {
   -webkit-transform: translateY(0px);
   transform: translateY(0px);

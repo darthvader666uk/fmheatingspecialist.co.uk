@@ -1,0 +1,16 @@
+{
+  "name": "fmheatingspecialist.co.uk",
+  "version": "1.0.0",
+  "description": "Minifying Css and JS",
+  "author": "darthvader666uk",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^3.0.2",
+    "del": "^7.1.0",
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^3.0.2"
+  }
+}
