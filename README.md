@@ -74,4 +74,4 @@ Ystrad Mynach, Caerphilly
 
 [07917 198605](tel:07917 198605)
 
-[ashley@fmheatingspecialist.co.uk](mailto:ashley@fmheatingspecialist.co.uk)
+[fmheating@outlook.com](mailto:fmheating@outlook.com)
