@@ -8,6 +8,6 @@ navigation:
     - title: Home
       url: /index.html
     - title: Terms and conditions
-      url: /terms-and-conditions.html
+      url: /terms-and-conditions
 
 google_analytics: "G-N4SS677RZE"
